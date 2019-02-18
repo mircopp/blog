@@ -2,7 +2,10 @@
 layout: frontpage
 ---
 
-## Welcome to my website
+![banner](ressources/custom-website-banners_custom.jpg)
 
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
-Feel free to send me emails or join our team. 
+<hr/>
+# Welcome to my webblog. 
+<hr/>
+
+There will be more content soon. If you are interested please have a look at my github projects.
