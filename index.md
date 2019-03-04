@@ -5,7 +5,7 @@ layout: frontpage
 ![banner](ressources/custom-website-banners_custom.jpg)
 
 <hr/>
-# Welcome to my webblog. 
+# Welcome to my personal webblog. 
 <hr/>
 
-There will be more content soon. If you are interested please have a look at my github projects.
+Please feel free to explore my personal website. Hopefully more content will be published soon.
