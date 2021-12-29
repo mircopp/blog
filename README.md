@@ -1,9 +1,5 @@
-# LiXizhi's Personal Website
+# Memoirs Jekyll Theme
 
-Runing on Github + Jekyll theme by [Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
+[Live Demo](https://wowthemesnet.github.io/jekyll-theme-memoirs/) | [Docs & Download](https://bootstrapstarter.com/jekyll-theme-memoirs/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
 
-# KeepWork
-Create Your Own Personal Website in Markdown. Visit http://keepwork.com 
-
-
-
+![memoirs](https://bootstrapstarter.com/assets/img/themes/memoirs-jekyll.jpg)
