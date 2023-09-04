@@ -3,3 +3,4 @@ _site
 .idea
 _posts/private
 .jekyll-cache
+Gemfile.lock
